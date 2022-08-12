@@ -1,4 +1,5 @@
-package CS1102;
+package nadine;
+
 import javax.swing.JOptionPane;
 public class Quiz2 {
 	static int nQuestions = 0;
